@@ -1,0 +1,3 @@
+Requirements: Flash Player 
+
+Double click on "Start Termostat Interface.html" in the folder "Thermostaat Interface" to view the thermostat. It will open in a popup window, so you might need to allow popups temporarily.
